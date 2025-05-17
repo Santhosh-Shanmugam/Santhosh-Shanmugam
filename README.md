@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently pursuing Computer Science and Engineering <br>🎯 Goals: To get placed in FAANG</p>
+<p align="left"><br>📚 I'm currently pursuing Computer Science and Engineering <br>🎯 Goals: To get placed in FAANG</p>
 
 ###
 
