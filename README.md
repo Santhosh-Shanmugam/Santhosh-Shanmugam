@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Santhosh S -- a passionate Software Developer & Full Stack Developer | Crafting Scalable Web Solutions from Frontend to Backend | MERN Stack Enthusiast
+🔗 Software Developer & Full Stack Developer | Crafting Scalable Web Solutions from Frontend to Backend | MERN Stack Enthusiast
 
 ## About Me
 
