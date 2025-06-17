@@ -11,14 +11,14 @@ I'm Santhosh, a passionate Software developer & Full Stack Developer with a stro
 
 ## Skills & Technologies
 
-c,css,figma,git,github,html,mysql,mongodb,react,nodejs,notion,express,postgres,postman,docker,java,js,selenium,tailwind,pycharm
+[![My Skills](https://skillicons.dev/icons?i=c,css,figma,git,github,html,mysql,mongodb,react,nodejs,notion,express,postgres,postman,docker,java,js,selenium,tailwind,pycharm&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-
 📊 **Public Repositories:** 19  
 👥 **Followers:** 10  
 🔗 **Following:** 10  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Shanmugam&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Shanmugam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
