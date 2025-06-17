@@ -1,59 +1,30 @@
-<h1 align="center">Hey  there 👋 I'm Santhosh S</h1>
+## Hi there! 👋
 
-###
+I'm Santhosh S -- a passionate Software Developer & Full Stack Developer | Crafting Scalable Web Solutions from Frontend to Backend | MERN Stack Enthusiast
 
-<h4 align="center">Full Stack Developer</h4>
+## About Me
 
-###
+👨‍💻 About Me
 
-<h2 align="left">About me :</h2>
+I'm Santhosh, a passionate Software developer & Full Stack Developer with a strong focus on building scalable and user-friendly web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning creative ideas into full-fledged digital solutions. I continuously aim to solve practical problems through clean and efficient code. I’m currently expanding my skills in  solving real world applications and performance optimization. Beyond coding, I have a keen interest in Solving Puzzels , Sketch Drawing. 
 
-###
 
-<p align="left"><br>📚 I'm currently pursuing Computer Science and Engineering <br>🎯 Goals: To get placed in FAANG</p>
+## Skills & Technologies
 
-###
+c,css,figma,git,github,html,mysql,mongodb,react,nodejs,notion,express,postgres,postman,docker,java,js,selenium,tailwind,pycharm
 
-<h4 align="left">I code and able to work with tech Stacks such as</h4>
+## GitHub Stats
 
-###
+📊 **Public Repositories:** 19  
+👥 **Followers:** 10  
+🔗 **Following:** 10  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Shanmugam&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## Connect with Me
 
-###
+
+
+- 🌐 **Portfolio:** [santhoshshan.vercel.app](https://santhoshshan.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/santhosh192005](https://www.linkedin.com/in/santhosh192005)
+- 💻 **LeetCode:** [leetcode.com/u/Santhosh_S2005](https://leetcode.com/u/Santhosh_S2005/)
+- 🧠 **HackerRank:** [hackerrank.com/22CSR178SANTH](https://www.hackerrank.com/22CSR178SANTH)
