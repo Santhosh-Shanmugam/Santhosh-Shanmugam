@@ -27,9 +27,9 @@ I'm Santhosh, a passionate Software developer & Full Stack Developer with a stro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Shanmugam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Santhosh-Shanmugam&theme=radical&no-frame=true&no-bg=false&margin-w=4&exclude_ignored=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Shanmugam&theme=gruvbox&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 <p align="center">
