@@ -36,9 +36,8 @@ I'm Santhosh, a passionate Software developer & Full Stack Developer with a stro
 </div>
 
 ## 🏆 GitHub Trophies
-<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Shanmugam&theme=gruvbox&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
