@@ -1,13 +1,22 @@
-💫 About Me
+# 💫 About Me:
+I'm Santhosh, a passionate Software developer & Full Stack Developer with a strong focus on building scalable and user-friendly web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning creative ideas into full-fledged digital solutions. I continuously aim to solve practical problems through clean and efficient code. I’m currently expanding my skills in solving real world applications and performance optimization. Beyond coding, I have a keen interest in Solving Puzzels , Sketch Drawing.
 
-I’m Santhosh, a Software Developer & Full-Stack Web Developer with hands-on experience in building scalable, responsive, and user-centric web applications. I primarily work with the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy transforming ideas into robust digital products.
+## 🌐 Socials:
 
-I have a strong interest in real-world problem solving, performance optimization, and clean architecture. I’m continuously improving my skills through practical projects, coding challenges, and learning modern development practices.
-
-Beyond development, I enjoy solving logic puzzles and sketch drawing, which sharpen my creativity and analytical thinking.
-
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/santhosh192005"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> </a>&nbsp;&nbsp; <a href="https://leetcode.com/Santhosh_S2005"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/> </a>&nbsp;&nbsp; <a href="https://www.hackerrank.com/22CSR178SANTH"> <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white"/> </a>&nbsp;&nbsp; <a href="https://santhoshshan.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/santhosh192005">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/Santhosh_S2005">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/22CSR178SANTH">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://santhoshshan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
