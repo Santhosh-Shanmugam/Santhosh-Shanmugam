@@ -1,50 +1,111 @@
-# 💫 About Me:
-I'm Santhosh, a passionate Software developer & Full Stack Developer with a strong focus on building scalable and user-friendly web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning creative ideas into full-fledged digital solutions. I continuously aim to solve practical problems through clean and efficient code. I’m currently expanding my skills in solving real world applications and performance optimization. Beyond coding, I have a keen interest in Solving Puzzels , Sketch Drawing.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer&font=Fira%20Code&duration=5000&pause=1000&center=true&width=800&height=120&align=center&vCenter=true&size=32" alt="Typing SVG"/>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Santhosh%20Shanmugam&fontSize=50&fontAlignY=40&animation=fadeIn&colorA=6366F1&colorB=EC4899&colorC=10B981" />
+</div>
+<div align="center">
+  <h2>👨‍💻 Software Developer | MERN Stack Developer</h2>
+  <p><i>Crafting efficient code across the full stack | System design | Performance optimization | Problem-solving through clean architecture</i></p>
+</div>
 
-## 🌐 Socials:
+<hr>
 
+## 🔭 What I'm Working On
+
+🚀 Expanding expertise in:
+
+- Scalable system architecture 
+
+- Clean code principles & design patterns
+
+- Containerization (Docker) & CI/CD pipelines
+
+
+## 🛠️ Technology Expertise
+
+### 🎨 Frontend & UI/UX
+React (Hooks, Context, Custom Hooks) - TailwindCSS - Vite - Figma - Responsive Design
+
+
+### ⚙️ Backend & APIs
+Node.js - Express.js - REST APIs - GraphQL - Authentication (JWT, OAuth) - Middleware - Error Handling
+
+
+### 🗄️ Databases & Storage
+MongoDB (Mongoose) - PostgreSQL - MySQL - Redis (Caching)
+
+
+### 🔧 DevOps & Tools
+Docker - Git - Vercel - Netlify - Render - Postman - VS Code - Linux - GitHub Actions
+
+
+### 📊 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## ✨ Featured Work
+
+<div align="center">
+<table>
+<tr>
+  <td align="center">
+    <b>🎯 Portfolio</b><br>
+    Modern React + TailwindCSS<br>
+    <a href="https://santhoshshan.vercel.app">Live Demo</a>
+  </td>
+</tr>
+</table>
+</div>
+
+## 📈 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-Shanmugam&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFDFD&icon_color=5865F2&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Shanmugam&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFDFD&icon_color=5865F2" width="40%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Shanmugam&theme=transparent&hide_border=true&background=0D1117&stroke=FFFFFF&ring=5865F2&fire=5865F2&currStreakNum=FDFDFD&sideNums=FDFDFD&currStreakLabel=FDFDFD&sideLabels=FDFDFD&dates=FDFDFD" />
+</div>
+
+## 🧠 Currently Learning
+
+- Advanced System Design (Load Balancing, Sharding)
+
+- Microservices Architecture Patterns
+
+- Advanced React (Concurrent Features, Server Components)
+
+- Database Optimization Techniques
+
+- Clean Architecture Principles
+
+
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/santhosh192005">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
   <a href="https://leetcode.com/Santhosh_S2005">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LeetCode-0A71EA?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
+  </a>
   <a href="https://www.hackerrank.com/22CSR178SANTH">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://santhoshshan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/>
   </a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-Shanmugam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Santhosh-Shanmugam&color=5865F2&style=for-the-badge&label=Profile%20Views" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Santhosh-Shanmugam&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Shanmugam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Shanmugam&theme=gruvbox&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
-</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Santhosh-Shanmugam&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" />
+</div>
+<br><br>
+<div align="center">
+*Crafted with precision | Open to collaboration 🚀*
+</div>
+
