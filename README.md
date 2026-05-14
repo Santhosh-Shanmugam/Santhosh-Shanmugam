@@ -21,19 +21,19 @@
 ## 🛠️ Technology Expertise
 
 ### 🎨 Frontend & UI/UX
-React (Hooks, Context, Custom Hooks) - TailwindCSS - Vite - Figma - Responsive Design
+React - TailwindCSS - Vite - Figma - Responsive Design
 
 
 ### ⚙️ Backend & APIs
-Node.js - Express.js - REST APIs - GraphQL - Authentication (JWT, OAuth) - Middleware - Error Handling
+Node.js - Express.js - REST APIs - Authentication (JWT, OAuth) - Middleware - Error Handling
 
 
 ### 🗄️ Databases & Storage
-MongoDB (Mongoose) - PostgreSQL - MySQL - Redis (Caching)
+MongoDB - PostgreSQL - MySQL
 
 
 ### 🔧 DevOps & Tools
-Docker - Git - Vercel - Netlify - Render - Postman - VS Code - Linux - GitHub Actions
+Docker - Vercel - Netlify - Render - Postman - Git/GitHub
 
 
 ### 📊 Languages
@@ -70,6 +70,9 @@ Docker - Git - Vercel - Netlify - Render - Postman - VS Code - Linux - GitHub Ac
 <p align="center">
   <a href="https://linkedin.com/in/santhosh192005">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:santhoshs192005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
 
