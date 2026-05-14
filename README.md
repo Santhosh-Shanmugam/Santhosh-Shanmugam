@@ -76,17 +76,4 @@ Docker - Vercel - Netlify - Render - Postman - Git/GitHub
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santhosh-Shanmugam&color=5865F2&style=for-the-badge&label=Profile%20Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" />
-</div>
-<br><br>
-<div align="center">
-*Crafted with precision | Open to collaboration*
-</div>
 
