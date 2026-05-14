@@ -1,9 +1,6 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer&font=Fira%20Code&duration=5000&pause=1000&center=true&width=800&height=120&align=center&vCenter=true&size=32" alt="Typing SVG"/>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Santhosh%20Shanmugam&fontSize=50&fontAlignY=40&animation=fadeIn&colorA=6366F1&colorB=EC4899&colorC=10B981" />
-</div>
-<div align="center">
+  <h1> Santhosh S </h1>
   <h2>👨‍💻 Software Developer | MERN Stack Developer</h2>
   <p><i>Crafting efficient code across the full stack | System design | Performance optimization | Problem-solving through clean architecture</i></p>
 </div>
@@ -69,29 +66,10 @@ Docker - Git - Vercel - Netlify - Render - Postman - VS Code - Linux - GitHub Ac
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Shanmugam&theme=transparent&hide_border=true&background=0D1117&stroke=FFFFFF&ring=5865F2&fire=5865F2&currStreakNum=FDFDFD&sideNums=FDFDFD&currStreakLabel=FDFDFD&sideLabels=FDFDFD&dates=FDFDFD" />
 </div>
 
-## 🧠 Currently Learning
-
-- Advanced System Design (Load Balancing, Sharding)
-
-- Microservices Architecture Patterns
-
-- Advanced React (Concurrent Features, Server Components)
-
-- Database Optimization Techniques
-
-- Clean Architecture Principles
-
-
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/santhosh192005">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="https://leetcode.com/Santhosh_S2005">
-    <img src="https://img.shields.io/badge/LeetCode-0A71EA?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.hackerrank.com/22CSR178SANTH">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/>
   </a>
 </p>
 
@@ -106,6 +84,6 @@ Docker - Git - Vercel - Netlify - Render - Postman - VS Code - Linux - GitHub Ac
 </div>
 <br><br>
 <div align="center">
-*Crafted with precision | Open to collaboration 🚀*
+*Crafted with precision | Open to collaboration*
 </div>
 
